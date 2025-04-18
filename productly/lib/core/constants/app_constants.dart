@@ -9,6 +9,9 @@ class AppConstants {
   // App Constants
   static const String appName = 'Productly';
   static const String appVersion = '1.0.0';
+  static const String appTagline = 'Shop Smarter, Live Better';
+  static const String appGitHubUrl = 'https://github.com/AmrikSingh1/Productly';
+  static const String appDeveloper = 'Amrik Singh';
   
   // Navigation Routes
   static const String homeRoute = '/';

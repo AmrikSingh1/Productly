@@ -85,7 +85,7 @@ class SplashScreen extends StatelessWidget {
                 child: Padding(
                   padding: const EdgeInsets.symmetric(horizontal: 30),
                   child: Text(
-                    'Shop Smarter, Live Better',
+                    AppConstants.appTagline,
                     style: AppTextStyles.bodyLarge.copyWith(
                       color: AppColors.onPrimary.withOpacity(0.8),
                     ),
